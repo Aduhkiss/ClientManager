@@ -1,0 +1,5 @@
+name: ClientManager
+main: me.atticusthecoder.clientmgr.Main
+version: 1.0
+author: AtticusTheCoder
+commands:
